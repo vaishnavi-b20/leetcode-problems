@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0415-add-strings) |
 ## Simulation
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0067-add-binary) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
