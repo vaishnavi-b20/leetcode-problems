@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [2785-sort-vowels-in-a-string](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [2785-sort-vowels-in-a-string](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/2785-sort-vowels-in-a-string) |
 ## Math
 |  |
@@ -47,8 +49,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
