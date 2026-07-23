@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0205-isomorphic-strings) |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
