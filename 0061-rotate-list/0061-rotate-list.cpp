@@ -18,7 +18,7 @@ public:
         cnt++;
         temp=temp->next;
         }
-        return NULL;
+        return temp;
     }
     ListNode* rotateRight(ListNode* head, int k) {
         if(head == NULL || k == 0) return head;
