@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0067-add-binary) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Heap (Priority Queue)
 |  |
