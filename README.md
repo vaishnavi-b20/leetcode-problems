@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0416-partition-equal-subset-sum](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -180,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0035-search-insert-position) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
