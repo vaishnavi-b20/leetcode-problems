@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0078-subsets) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0989-add-to-array-form-of-integer](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/vaishnavi-b20/leetcode-problems/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
